@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[29],{849:function(n,e,l){"use strict";l.r(e);var t=l(28),component=Object(t.a)({},(function(){return(0,this._self._c)("p",[this._v("Manage Galleries")])}),[],!1,null,null,null);e.default=component.exports}}]);
